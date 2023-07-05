@@ -507,7 +507,10 @@ header {
     body {
         font-size: 12px;
     }
-
+ .card {
+        flex-basis: calc(50%);
+    }
+    
 }
 
 @media screen and (max-width:420px) {
